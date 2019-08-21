@@ -1,4 +1,14 @@
 # laboratorio1ARSW
+#
+## Autores ✒️
+
+* **Nicolas Patiño** 
+* **Andres Rodriguez Del Toro** 
+
+
+
+---
+
 # Part I - Introduction to Java Threads
  1.As reviewed in the readings, complete the CountThread classes, so that they define the life cycle of a thread that prints the numbers      between A and B.
 
